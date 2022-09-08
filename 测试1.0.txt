@@ -1,1 +1,7 @@
 我再试一试
+几个命令：
+git init       ——初始化本地库
+git add 文件名 ——添加暂存区
+git commit -m "日志信息" 文件名 ——提交本地库
+git remote add 库别名 库地址 ——绑定远程库
+git push 库别名 分支  ——提交远程库
